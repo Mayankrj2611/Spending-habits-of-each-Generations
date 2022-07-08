@@ -1,0 +1,2 @@
+# Spending-habits-of-each-Generations
+Ensure that your audience can access the information below : - Chart 1 : Rank wise illustration of Generations spending corresponding to each category. - Chart 2 : Detailed bar plot for the selected category in chart 1. - The bar chart in Chart 2 must update with the selection of different categories in Chart 1. - The Text field above the Chart 2 must also update category name with change in selection in Chart 1.
